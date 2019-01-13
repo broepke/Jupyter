@@ -1,0 +1,257 @@
+ABus,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+ACE,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+ACM,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Activity,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+BIM 360 Locations,MCP-Construction,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+CloudOS 2.0,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+CSE.V2,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Derivative Service,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Forge - Webhooks,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Forge Content Service,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Forge HFDM,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Forge Reality Capture API,DCP-Building Infrastructure Design,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+HDS,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Identity,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+LEM,DPE-SPG,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Metering V2,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Notifications,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+OSS,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+RaaS,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Revit Cloud Upgrade,DCP-Building Infrastructure Design,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Search Service,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Translation Service,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+BIM 360 Insight,MCP-Construction,1.00,1.00,1.00,1.00,1.00,1.00,1.00,0.67,1.00,0.98
+Forge - Locale service,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,0.93,1.00,1.00,0.98
+Forge - Subscription service,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,1.00,0.93,1.00,1.00,0.98
+Forge Schema Service,MCP-Cloud Platform,1.00,1.00,1.00,1.00,0.92,1.00,1.00,1.00,1.00,0.98
+Ariba on Cloud,DPE-DBP,1.00,1.00,1.00,1.00,0.92,0.75,1.00,1.00,1.00,0.97
+BIM 360 Design Collaboration,MCP-Construction,1.00,1.00,1.00,0.89,1.00,1.00,0.90,1.00,1.00,0.97
+BIM 360 Reports,MCP-Construction,1.00,1.00,1.00,1.00,1.00,1.00,1.00,0.33,1.00,0.97
+Computation Graph Service,DCP-Building Infrastructure Design,1.00,1.00,1.00,1.00,0.85,1.00,1.00,1.00,1.00,0.97
+Fusion Web,MCP-Manufacturing,1.00,1.00,1.00,1.00,0.92,1.00,1.00,0.67,1.00,0.97
+Fusion Workflow Service,MCP-Manufacturing,1.00,1.00,1.00,1.00,0.92,1.00,0.90,1.00,1.00,0.97
+Workflow Service,MCP-Cloud Platform,1.00,1.00,1.00,1.00,1.00,0.75,0.90,1.00,1.00,0.97
+BIM 360 Data Platform,MCP-Construction,0.86,1.00,1.00,1.00,1.00,1.00,1.00,0.67,0.83,0.95
+BIM 360 HQ,MCP-Construction,1.00,0.83,1.00,1.00,1.00,1.00,1.00,0.33,1.00,0.95
+ECCR CORE API,DPE-SPG,1.00,1.00,1.00,1.00,0.85,1.00,0.93,1.00,1.00,0.95
+Exchange AppStore,MCP-Cloud Platform,0.86,1.00,1.00,1.00,1.00,1.00,0.87,1.00,1.00,0.95
+Fusion JS,MCP-Manufacturing,0.71,1.00,0.75,1.00,1.00,1.00,1.00,1.00,1.00,0.95
+Fusion Lifecycle,MCP-Manufacturing,1.00,1.00,1.00,1.00,0.92,1.00,0.90,0.67,1.00,0.95
+Thunderstorm,DCP-Building Infrastructure Design,1.00,1.00,1.00,1.00,0.85,1.00,1.00,0.67,1.00,0.95
+Concur,DPE-DBP,0.86,0.83,1.00,1.00,0.85,1.00,1.00,1.00,1.00,0.94
+Fusion Abus Adapter,MCP-Manufacturing,0.86,1.00,1.00,1.00,0.92,0.75,0.90,1.00,1.00,0.94
+WIPDM,MCP-Cloud Platform,1.00,1.00,0.75,1.00,0.85,1.00,1.00,0.67,1.00,0.94
+BIM 360 Nucleus,MCP-Construction,1.00,1.00,1.00,1.00,0.92,1.00,0.73,1.00,1.00,0.92
+Exchange Gallery,MCP-Cloud Platform,0.71,1.00,1.00,1.00,0.92,1.00,0.87,1.00,1.00,0.92
+Forge - DM,MCP-Cloud Platform,1.00,0.83,1.00,0.75,0.77,1.00,1.00,1.00,1.00,0.92
+Fusion Notification Service,MCP-Manufacturing,0.86,0.83,1.00,1.00,0.92,0.75,0.90,1.00,1.00,0.92
+Ping Federate,MCP-Cloud Platform,1.00,1.00,1.00,1.00,0.92,0.50,1.00,0.67,0.83,0.92
+Workday,DPE-DBP,0.57,1.00,1.00,1.00,0.92,1.00,1.00,0.67,1.00,0.92
+BIM 360 Checklists,MCP-Construction,1.00,0.83,1.00,1.00,0.85,0.75,1.00,0.33,1.00,0.90
+BIM DOS,MCP-Construction,1.00,1.00,1.00,1.00,0.85,1.00,0.73,1.00,1.00,0.90
+Helium,MCP-Cloud Platform,1.00,0.83,1.00,1.00,0.85,1.00,0.93,0.67,0.83,0.90
+Revit Cloud Worksharing (Collaboration for Revit - C4R),DCP-Building Infrastructure Design,1.00,1.00,1.00,1.00,0.69,0.75,1.00,0.67,1.00,0.90
+BIM 360 Submittals & Workflows,MCP-Construction,1.00,0.83,1.00,1.00,0.77,0.75,1.00,0.33,1.00,0.89
+BIM360 Photos,MCP-Cloud Platform,1.00,0.50,0.75,1.00,0.85,0.75,1.00,1.00,1.00,0.89
+ASIMS,DPE-DAA,1.00,0.67,1.00,1.00,0.85,1.00,1.00,1.00,0.33,0.87
+BIM 360 Daily Logs,MCP-Construction,1.00,0.67,1.00,0.50,0.92,0.75,1.00,0.33,1.00,0.87
+BIM 360 Docs,MCP-Construction,1.00,1.00,1.00,1.00,0.54,1.00,1.00,0.33,1.00,0.87
+FusionAnyCAD,MCP-Manufacturing,1.00,1.00,1.00,1.00,0.92,0.75,0.40,1.00,1.00,0.87
+BIM 360 Apps,MCP-Construction,1.00,0.83,1.00,1.00,0.85,0.75,0.80,0.33,1.00,0.85
+BIM 360 Docs Command Processor,MCP-Construction,1.00,1.00,1.00,1.00,0.85,1.00,0.67,0.33,1.00,0.85
+Change Data Capture Service,DPE-DES,0.86,1.00,1.00,1.00,1.00,1.00,0.62,0.67,0.67,0.85
+Core Reporting,DPE-SPG,1.00,0.83,1.00,0.75,0.85,0.75,0.87,0.67,0.83,0.85
+Forge - API gateway,MCP-Cloud Platform,1.00,1.00,1.00,1.00,0.46,1.00,1.00,1.00,0.67,0.85
+Informatica,DPE-DES,1.00,0.67,0.75,1.00,0.85,0.75,1.00,0.67,0.67,0.85
+NTP,DPE-DES,1.00,0.83,1.00,1.00,0.85,0.50,1.00,0.67,0.50,0.85
+CitiEncryption,DPE-DES,1.00,1.00,1.00,1.00,0.69,0.75,1.00,0.67,0.33,0.84
+Fusion MAS Receipt Validator,MCP-Manufacturing,0.71,1.00,0.75,1.00,0.69,0.75,0.80,1.00,1.00,0.84
+Nitrogen,MCP-Cloud Platform,0.86,0.83,1.00,1.00,0.77,1.00,0.80,0.33,1.00,0.84
+PossibleNow,DPE-DAA,0.86,1.00,0.75,1.00,0.69,0.25,0.91,1.00,0.83,0.84
+BIM 360 Cost,MCP-Construction,1.00,0.83,1.00,1.00,0.77,1.00,0.67,0.33,1.00,0.82
+BIM 360 Next Gen Issues,MCP-Construction,0.86,0.83,1.00,0.25,0.77,0.75,1.00,0.33,1.00,0.82
+Digital Help - ABuS,DPE-DHX,1.00,1.00,0.50,1.00,0.85,0.75,0.73,1.00,0.67,0.82
+Fusion Production,MCP-Manufacturing,1.00,1.00,1.00,0.56,1.00,1.00,0.50,1.00,0.67,0.82
+IXOS,DPE-DES,0.71,0.50,1.00,1.00,1.00,0.75,0.93,1.00,0.33,0.82
+RevPro,DPE-DBP,1.00,0.83,0.50,1.00,0.77,0.75,0.93,1.00,0.50,0.82
+Sim Service,MCP-Manufacturing,0.86,0.83,0.25,0.89,0.92,1.00,0.80,0.33,1.00,0.82
+BIM 360 Plan,MCP-Construction,0.86,0.83,1.00,1.00,0.46,1.00,1.00,0.00,1.00,0.81
+Comments V2,MCP-Cloud Platform,1.00,0.83,0.50,1.00,0.62,1.00,0.80,0.67,1.00,0.81
+Fusion Landing Page for non-China,MCP-Manufacturing,0.71,1.00,0.50,1.00,0.85,1.00,0.50,0.67,1.00,0.81
+Fusion PIM (Product Information Model),MCP-Manufacturing,0.57,0.50,1.00,0.89,0.92,1.00,0.90,0.00,1.00,0.81
+Autodesk Viewer (viewer.autodesk.com),MCP-Cloud Platform,1.00,1.00,0.75,1.00,0.85,1.00,0.40,1.00,0.83,0.79
+External DNS,DPE-DES,1.00,1.00,0.75,1.00,0.92,0.00,0.80,1.00,0.33,0.79
+HIG,MCP-Other,0.43,0.83,0.50,1.00,0.92,1.00,0.87,1.00,0.50,0.79
+Slayer-nginx,DPE-SPG,1.00,1.00,0.50,0.75,0.77,0.50,0.87,1.00,0.50,0.79
+AUM,DPE-SPG,0.86,1.00,0.50,0.89,0.85,0.50,0.45,1.00,1.00,0.78
+AutoCAD Backend,DCP-AutoCAD Family,0.86,1.00,1.00,0.44,0.85,1.00,0.70,0.33,0.83,0.77
+InfraWorks Translation,DCP-Building Infrastructure Design,1.00,0.83,1.00,0.78,0.31,1.00,1.00,0.33,1.00,0.77
+Paymetric,DPE-DBP,0.71,0.83,0.00,1.00,1.00,0.75,1.00,0.67,0.17,0.77
+RevPro Data Loader,DPE-DBP,1.00,0.67,0.25,1.00,0.77,0.50,0.80,1.00,0.83,0.77
+BIM 360 Issues,MCP-Construction,1.00,0.50,1.00,1.00,0.77,0.50,0.67,0.33,1.00,0.76
+Design Automation V3,DCP-Shared Service,0.29,0.50,0.75,1.00,0.62,1.00,1.00,0.67,1.00,0.76
+Digital Help - Crucible,DPE-DHX,0.71,1.00,1.00,1.00,0.54,0.75,0.80,1.00,0.50,0.76
+Generative Cloud Platform,MCP-Manufacturing,0.71,0.83,0.75,1.00,0.85,1.00,0.53,0.67,0.83,0.76
+Generative Design (Explore),MCP-Manufacturing,1.00,0.67,1.00,1.00,0.77,1.00,0.53,0.67,0.67,0.76
+Insight (GBS),DCP-Building Infrastructure Design,0.43,1.00,1.00,0.78,0.77,1.00,0.50,0.67,1.00,0.76
+Slayer-IdentitySyncService,DPE-SPG,0.86,0.83,0.50,1.00,0.77,0.50,0.80,1.00,0.50,0.76
+Wingman Server,DPE-SPG,1.00,0.83,1.00,1.00,0.77,1.00,0.00,1.00,0.83,0.75
+CloudPC,DPE-DES,1.00,0.67,0.00,1.00,0.69,0.25,1.00,0.67,0.67,0.74
+FusionTeam (A360),MCP-Manufacturing,1.00,0.67,1.00,1.00,0.69,0.75,0.53,0.33,1.00,0.74
+InfraWorks Bridge Analysis,DCP-Building Infrastructure Design,0.43,0.33,0.00,1.00,1.00,0.50,1.00,0.33,1.00,0.74
+Infraworks Model Storage,DCP-Building Infrastructure Design,1.00,0.83,0.75,0.78,0.31,0.75,1.00,0.33,1.00,0.74
+Infraworks Watershed Analysis,DCP-Building Infrastructure Design,0.86,0.50,0.50,1.00,0.38,1.00,1.00,0.33,1.00,0.74
+References,MCP-Cloud Platform,0.86,0.83,0.50,1.00,0.62,1.00,0.60,0.67,1.00,0.74
+SAP - Order Entry,DPE-DBP,0.86,0.67,0.75,1.00,0.77,0.50,1.00,0.67,0.00,0.74
+Slayer-panda,DPE-SPG,0.86,0.67,0.50,1.00,0.77,0.50,0.80,1.00,0.50,0.74
+Fusion Mobile (Nova),MCP-Manufacturing,1.00,0.67,1.00,0.56,0.69,0.75,0.60,0.33,1.00,0.73
+FusionDM,MCP-Manufacturing,1.00,0.50,1.00,1.00,0.69,1.00,0.47,0.33,1.00,0.73
+FusionSymphonyDM,MCP-Manufacturing,0.86,0.50,1.00,1.00,0.77,1.00,0.47,0.33,1.00,0.73
+SketchBook.com,DCP-Automotive & Conceptual Design,0.14,0.67,0.75,1.00,0.92,0.50,0.87,0.33,0.83,0.73
+CLS,DPE-SPG,0.86,1.00,1.00,0.78,0.69,1.00,0.09,0.67,1.00,0.71
+SPOC-PayPort,DPE-SPG,0.71,0.83,0.75,1.00,0.92,1.00,0.00,1.00,0.67,0.71
+BIC Reporting,DPE-DES,1.00,0.50,1.00,1.00,0.62,0.75,0.73,0.33,0.33,0.69
+BIM 360 Glue,MCP-Construction,0.86,0.50,0.75,1.00,0.62,0.75,0.67,0.33,0.83,0.69
+Cloud Solid Modeling,MCP-Cloud Platform,0.86,0.83,1.00,0.89,0.46,0.50,0.50,0.33,1.00,0.69
+Fusion Landing Pages for China,MCP-Manufacturing,0.29,1.00,0.50,1.00,0.85,1.00,0.40,0.33,0.67,0.69
+Fusion Supportal,MCP-Manufacturing,0.86,0.67,1.00,0.75,0.69,1.00,0.40,0.33,1.00,0.69
+InfraWorks Model Builder,DCP-Building Infrastructure Design,0.71,0.50,0.75,0.78,0.38,0.75,1.00,0.33,1.00,0.69
+Infraworks Traffic Simulation,DCP-Building Infrastructure Design,0.71,0.67,0.75,0.78,0.46,0.50,1.00,0.00,1.00,0.69
+Shotgun,MCP-Production,0.86,1.00,0.75,0.78,0.77,1.00,0.50,0.00,0.33,0.69
+Tempest,MCP-Production,0.29,0.83,0.25,0.75,0.62,1.00,0.93,0.67,0.67,0.69
+Account Portal,DPE-SPG,0.86,0.67,0.50,1.00,0.54,1.00,0.45,0.67,0.67,0.68
+ECS Vapor,DPE-DES,0.86,0.67,0.75,1.00,0.62,0.75,0.47,0.67,0.83,0.68
+SPOC-Payport Agent,DPE-SPG,0.57,0.83,0.75,1.00,0.92,1.00,0.00,0.67,0.67,0.68
+Active Directory (ADS),DPE-DES,0.86,0.33,1.00,1.00,0.69,0.00,0.73,0.33,0.67,0.66
+BIM 360 Field,MCP-Construction,1.00,0.67,1.00,1.00,0.23,0.75,0.80,0.00,0.67,0.66
+Forge - Existing Developer portal,MCP-Cloud Platform,0.43,1.00,0.50,0.75,0.38,1.00,0.80,0.67,0.67,0.66
+Pan Service,MCP-Manufacturing,0.29,0.83,1.00,0.50,0.54,0.25,1.00,0.67,0.50,0.66
+Revit Cloud Worksharing (Communicator),DCP-Building Infrastructure Design,1.00,0.33,0.50,0.75,0.23,0.75,0.93,0.33,1.00,0.66
+AEM Checkout,DPE-DEC,1.00,1.00,0.75,1.00,0.62,1.00,0.12,0.67,0.67,0.65
+Autodesk Data Platform (ADP),DPE-DAA,1.00,0.33,0.75,1.00,0.38,0.25,0.64,0.67,0.83,0.65
+Constructware,MCP-Construction,0.86,0.50,1.00,1.00,0.23,0.25,1.00,0.00,0.67,0.65
+InfraWorks Comment,DCP-Building Infrastructure Design,0.71,0.33,1.00,0.78,0.31,0.50,1.00,0.00,1.00,0.65
+InfraWorks Optimization,DCP-Building Infrastructure Design,0.71,0.33,0.75,0.78,0.31,0.75,1.00,0.00,1.00,0.65
+Salesforce,DPE-DAA,0.57,0.33,1.00,1.00,0.38,0.75,0.93,0.33,0.50,0.65
+SketchBook API,DCP-Automotive & Conceptual Design,0.14,0.67,0.75,1.00,0.54,0.50,0.87,0.33,0.83,0.65
+SPOC-Billing Manager,DPE-SPG,0.86,0.83,0.75,1.00,0.77,0.50,0.00,1.00,0.50,0.65
+Testing Hub,DPE-DES,0.14,0.67,0.25,1.00,0.69,1.00,0.64,1.00,0.50,0.65
+ADP Looker,DPE-DAA,1.00,0.50,0.75,0.75,0.77,0.25,0.33,1.00,0.67,0.63
+Internal DNS,DPE-DES,1.00,0.17,0.75,1.00,0.85,0.00,0.67,0.33,0.33,0.63
+IronClad,DPE-DES,0.86,0.17,1.00,1.00,0.46,1.00,0.67,1.00,0.17,0.63
+Marketo,DPE-DAA,1.00,0.33,1.00,1.00,0.54,0.25,0.80,0.00,0.33,0.63
+Navex Global,DPE-DES,0.86,0.17,1.00,1.00,0.46,1.00,0.67,1.00,0.17,0.63
+Pelican Orders,DPE-SPG,1.00,0.83,0.75,0.56,0.77,0.75,0.00,0.67,0.83,0.63
+Pelican Subscriptions,DPE-SPG,0.86,0.83,0.75,0.44,0.77,1.00,0.00,1.00,0.83,0.63
+Provisioning,MCP-Cloud Platform,1.00,0.33,0.50,1.00,0.62,0.50,0.47,0.33,1.00,0.63
+Revit Live,DCP-Entertainment Creation Products,1.00,1.00,0.75,0.56,0.31,0.50,0.50,0.67,0.83,0.63
+SPOC-Cart,DPE-SPG,0.86,0.83,0.75,0.89,0.77,0.50,0.00,1.00,0.50,0.63
+Zoom,DPE-DES,0.86,1.00,0.75,1.00,0.85,0.00,0.27,0.67,0.50,0.63
+DivvyCloud,DPE-DES,0.14,0.50,0.75,0.44,0.77,0.25,1.00,0.33,0.83,0.62
+Green Box,DPE-SPG,1.00,0.83,0.50,0.67,0.62,1.00,0.09,1.00,0.50,0.62
+SPOC-IPP,DPE-SPG,0.86,0.83,0.75,0.89,0.69,0.50,0.00,1.00,0.50,0.62
+SPOC-MOE,DPE-SPG,0.86,0.67,0.75,1.00,0.69,0.50,0.00,1.00,0.50,0.62
+CyberSource,DPE-DBP,0.71,0.17,0.00,1.00,0.92,0.00,0.80,1.00,0.17,0.61
+Help Hub,DPE-DES,0.71,0.50,0.50,1.00,0.46,0.50,0.62,0.67,0.67,0.61
+Hydrogen,MCP-Cloud Platform,1.00,0.17,0.50,1.00,0.62,0.50,0.47,0.33,1.00,0.61
+Innography,DPE-DES,0.71,0.17,1.00,1.00,0.46,1.00,0.67,1.00,0.17,0.61
+Jenkins CD,MCP-Other,0.86,0.33,0.25,0.75,0.54,0.25,0.93,0.00,0.67,0.61
+Net Documents,DPE-DES,0.86,0.17,1.00,1.00,0.46,0.75,0.67,0.67,0.33,0.61
+Pricing Data Service (for Web),DPE-DEC,0.86,0.67,0.50,1.00,0.54,0.75,0.47,0.67,0.50,0.61
+Serengeti Tracker,DPE-DES,1.00,0.17,1.00,1.00,0.31,0.75,0.67,1.00,0.33,0.61
+Clearwell,DPE-DES,0.71,0.17,1.00,1.00,0.46,1.00,0.60,1.00,0.17,0.60
+Digital Help - Beehive,DPE-DHX,0.86,0.50,0.50,1.00,0.54,0.75,0.40,0.33,0.83,0.60
+Lecorpio,DPE-DES,0.86,0.17,1.00,1.00,0.38,1.00,0.60,1.00,0.17,0.60
+Partner Web Services (Service Layer),DPE-SPG,0.71,0.67,1.00,0.56,0.23,1.00,0.55,1.00,0.67,0.60
+SCCM,DPE-DES,0.86,0.33,0.75,1.00,0.62,0.00,0.73,0.67,0.17,0.60
+SPOC-MailBroker,DPE-SPG,0.71,0.83,0.75,0.89,0.62,0.50,0.00,1.00,0.50,0.59
+3dsMax AssetStore,DCP-Entertainment Creation Products,0.43,0.50,0.75,0.78,0.54,0.50,0.70,0.33,0.50,0.58
+Heroku,DPE-DAA,1.00,0.33,1.00,1.00,0.54,0.25,0.33,0.33,0.83,0.58
+Tinkercad Backend,MCP-Other,0.57,1.00,0.75,1.00,0.38,0.75,0.40,0.67,0.50,0.58
+Aqua,MCP-Other,0.71,0.17,0.25,0.78,0.46,0.00,0.90,0.00,1.00,0.56
+EMAIL,DPE-DES,1.00,0.33,0.75,1.00,0.77,0.00,0.47,0.33,0.17,0.56
+Infraworks LMV Extractor (IWLMW),DCP-Building Infrastructure Design,0.57,0.50,0.00,0.78,0.38,0.50,1.00,0.33,0.50,0.56
+KMS-Internal,DPE-DES,1.00,0.33,0.75,1.00,0.69,0.00,0.53,0.33,0.17,0.56
+Moldflow (SIM360),MCP-Manufacturing,0.86,1.00,0.75,1.00,0.23,1.00,0.20,0.00,1.00,0.56
+SPOC- Amart,DPE-SPG,0.86,0.67,0.50,0.89,0.62,0.25,0.00,0.67,0.67,0.56
+Autodesk CFD,MCP-Other,0.43,0.83,0.50,0.75,0.38,0.50,0.40,1.00,0.83,0.55
+Certificate Service - Internal,DPE-DES,0.86,0.17,0.75,1.00,0.69,0.00,0.60,0.33,0.17,0.55
+Design Graph (Private Beta),MCP-Cloud Platform,0.71,1.00,0.50,0.50,0.23,1.00,0.33,0.67,0.83,0.55
+DHCP,DPE-DES,0.86,0.00,0.75,1.00,0.69,0.00,0.73,0.33,0.00,0.55
+Quantum,MCP-Construction,0.57,0.67,1.00,0.25,0.38,1.00,0.33,0.67,0.83,0.55
+Autodesk Learning Central (ALC),DPE-DES,0.86,0.50,1.00,0.44,0.23,0.00,1.00,0.00,0.50,0.54
+BIM 360 Ops,MCP-Construction,1.00,0.50,0.00,1.00,0.38,0.50,0.53,0.33,0.50,0.53
+Forge CMS Framework (AU Online),DPE-DHX,0.57,0.33,1.00,1.00,0.31,1.00,0.25,0.67,0.83,0.53
+Mojo Terminus,DPE-DAA,0.86,0.33,0.25,1.00,0.69,0.25,0.40,0.33,0.50,0.53
+Office 365,DPE-DES,0.86,0.33,0.75,1.00,0.85,0.00,0.07,1.00,0.50,0.53
+Quark,MCP-Construction,0.43,0.33,1.00,0.75,0.31,0.75,0.53,0.33,0.83,0.53
+Revit Fabrication Data Manager (Not shipping in FY19),DCP-Building Infrastructure Design,0.29,0.50,0.75,0.33,0.62,1.00,0.50,0.00,0.83,0.53
+Chef,DPE-DES,0.71,0.33,0.75,1.00,0.54,0.25,0.40,0.33,0.50,0.52
+Fusion ECAD Web Service,MCP-Manufacturing,0.29,0.33,0.75,1.00,0.08,0.50,1.00,0.00,0.50,0.52
+Plant Collaboration Services,DCP-AutoCAD Family,0.43,0.67,1.00,0.75,0.38,0.25,0.53,0.33,0.50,0.52
+Vertex,DPE-DES,0.71,0.33,1.00,1.00,0.77,0.50,0.13,0.67,0.17,0.52
+Web Install Server,DPE-SPG,0.71,0.83,0.75,0.67,0.62,0.25,0.00,1.00,0.33,0.52
+Dynamo Package Manager,DCP-Building Infrastructure Design,0.43,0.33,1.00,0.56,0.31,0.50,0.50,0.00,1.00,0.50
+ECCR Tableau,DPE-SPG,1.00,0.67,0.75,1.00,0.69,0.00,0.06,0.33,0.33,0.50
+RedCar,DPE-SPG,1.00,0.67,0.00,0.75,0.38,0.75,0.25,0.67,0.50,0.50
+Security Weaver,DPE-DES,0.71,0.50,0.00,1.00,0.62,0.50,0.40,0.67,0.17,0.50
+Person Master,DPE-DAA,1.00,0.50,1.00,0.56,0.46,0.25,0.00,0.33,0.67,0.49
+Configurator 360,DCP-Product Design,0.29,0.67,0.50,0.44,0.23,1.00,0.40,0.67,0.83,0.48
+HCVault,MCP-Other,0.57,0.17,0.00,0.75,0.46,0.00,0.93,0.00,0.17,0.47
+Secret Server,DPE-DES,0.43,0.17,0.75,1.00,0.62,0.25,0.40,0.00,0.50,0.47
+Jira,DPE-DES,0.43,0.00,0.75,1.00,0.54,0.00,0.47,0.33,0.50,0.45
+Vault,DPE-DES,0.71,0.00,0.75,1.00,0.54,0.00,0.40,0.00,0.50,0.45
+Wireless - Campus,DPE-DES,0.86,0.67,0.00,1.00,0.38,0.00,0.53,0.33,0.00,0.45
+Denodo,DPE-DES,0.71,0.17,0.00,0.44,0.62,1.00,0.00,0.67,0.50,0.44
+Digital Help - AVA,DPE-DHX,0.57,0.17,0.00,0.75,0.23,0.50,0.73,0.33,0.33,0.44
+Digital Help - Screencast,DPE-DHX,0.57,0.17,0.00,0.75,0.15,0.50,0.73,0.33,0.50,0.44
+Digital Workplace,DPE-DES,0.43,0.50,0.00,1.00,0.38,0.25,0.53,0.33,0.33,0.44
+Sysdig,MCP-Other,0.71,0.33,0.25,0.75,0.08,0.00,0.93,0.00,0.17,0.44
+AOE,DPE-SPG,0.71,0.67,1.00,0.75,0.38,0.50,0.06,0.33,0.17,0.42
+Digital Help - Transaction Widget,DPE-DHX,0.43,0.17,0.00,0.75,0.23,0.50,0.73,0.33,0.33,0.42
+Splunk,DPE-DES,0.57,0.00,0.75,1.00,0.46,0.00,0.40,0.00,0.50,0.42
+Alias Desktop products with Shared View,DCP-Automotive & Conceptual Design,0.14,0.67,0.00,1.00,0.08,0.75,0.67,0.00,0.33,0.40
+Apigee,DPE-DES,0.86,0.67,1.00,1.00,0.54,0.00,0.00,0.00,0.00,0.40
+EAGLE Content Server,MCP-Manufacturing,0.57,0.50,1.00,1.00,0.23,0.50,0.13,0.00,0.50,0.40
+FormIt Pro,MCP-Construction,0.29,1.00,0.75,0.25,0.23,1.00,0.00,0.00,1.00,0.40
+Quay,DPE-DES,0.71,0.00,0.75,1.00,0.31,0.00,0.40,0.00,0.50,0.40
+Storebox,DPE-DES,0.43,0.00,0.00,1.00,0.62,0.00,0.53,0.00,0.33,0.40
+Wiki,DPE-DES,0.43,0.00,0.75,1.00,0.46,0.00,0.40,0.00,0.50,0.40
+Digital Help - AKN Website,DPE-DHX,0.71,0.17,0.00,0.75,0.23,0.50,0.47,0.00,0.50,0.39
+Digital Help - Services Marketplace,DPE-DHX,0.57,0.17,0.00,0.75,0.15,0.50,0.67,0.00,0.33,0.39
+Digital Help - Unified Profile,DPE-DHX,0.57,0.17,0.00,0.75,0.15,0.25,0.80,0.00,0.17,0.39
+Elastic,DPE-DES,0.43,0.00,0.75,1.00,0.46,0.00,0.33,0.00,0.50,0.39
+Factory Asset Warehouse,MCP-Other,0.43,0.33,0.75,1.00,0.31,0.50,0.13,0.33,0.50,0.39
+VRED (desktop product with shared views since 2019),DCP-Automotive & Conceptual Design,0.29,0.67,0.00,1.00,0.00,0.75,0.60,0.00,0.33,0.39
+Forge HFRS,MCP-Cloud Platform,0.29,0.50,0.25,0.22,0.00,1.00,0.50,0.00,1.00,0.37
+Java Activation Apps,DPE-SPG,0.57,0.50,0.00,1.00,0.38,0.25,0.12,0.33,0.50,0.37
+Cleo Harmony,DPE-DES,0.43,0.00,0.75,0.75,0.31,0.00,0.40,0.00,0.50,0.35
+AEM dotcom,DPE-DEC,0.57,0.17,0.50,1.00,0.23,0.50,0.00,0.33,0.67,0.34
+AEM In-Product Messaging,DPE-DEC,0.57,0.17,0.50,1.00,0.23,0.25,0.00,0.33,0.67,0.32
+Buzzsaw,MCP-Construction,1.00,0.50,0.00,0.25,0.08,0.25,0.27,0.00,0.50,0.32
+Qlikview,DPE-DES,1.00,0.00,0.00,0.75,0.46,0.25,0.13,0.33,0.00,0.32
+RedRocket,DPE-SPG,0.43,0.50,0.00,1.00,0.08,0.25,0.53,0.00,0.00,0.32
+UCM,DPE-DAA,0.57,0.17,1.00,0.44,0.46,0.00,0.00,0.33,0.00,0.32
+Digital Help - Forums,DPE-DHX,0.71,0.00,0.50,0.75,0.08,0.00,0.33,0.00,0.33,0.29
+Project Fractal,DCP-Building Infrastructure Design,0.29,0.67,0.75,0.25,0.15,0.50,0.00,0.33,0.50,0.29
+Contact Center,DPE-DES,0.57,0.00,0.50,1.00,0.38,0.25,0.00,0.00,0.17,0.27
+Customer Connect,DPE-DES,0.00,0.33,1.00,0.56,0.00,0.50,0.00,0.00,0.67,0.27
+ATF Transcoder Service,MCP-Cloud Platform,0.00,0.50,0.25,0.50,0.15,0.75,0.00,0.00,0.83,0.26
+Helius PFA,MCP-Manufacturing,0.14,0.00,0.00,1.00,0.54,0.00,0.13,0.00,0.33,0.26
+Dynamo Studio (Customizer),DCP-Building Infrastructure Design,0.29,0.33,0.50,0.75,0.23,0.25,0.00,0.00,0.33,0.24
+Pre-Registration,DPE-DES,0.86,0.00,0.00,0.75,0.38,0.00,0.00,0.33,0.00,0.24
+PWS (Apigee Dev Portal),DPE-SPG,0.29,0.17,0.00,0.50,0.31,0.25,0.13,0.00,0.33,0.23
+TIBCO,DPE-DES,0.71,0.00,0.00,0.25,0.46,0.00,0.00,0.67,0.00,0.23
+Dynamo Reach,DCP-Building Infrastructure Design,0.14,0.17,0.50,0.75,0.31,0.25,0.00,0.00,0.17,0.21
+Oracle Watchlist Service,DPE-DES,0.71,0.00,0.00,1.00,0.23,0.00,0.00,0.33,0.00,0.21
+test,MCP-Other,0.00,0.00,0.00,0.00,0.92,0.00,0.00,0.00,0.00,0.19
+GuiXT,DPE-DES,0.43,0.00,0.00,1.00,0.31,0.00,0.00,0.00,0.00,0.18
+Character Generator,DCP-Entertainment Creation Products,0.14,0.33,0.00,0.11,0.15,0.25,0.10,0.00,0.33,0.16
+Trinity,DPE-DES,0.43,0.00,0.00,1.00,0.23,0.00,0.00,0.00,0.00,0.16
+WordPress MultiSite Platform,DPE-DEC,0.14,0.00,0.50,0.75,0.08,0.25,0.07,0.00,0.17,0.16
+Business Objects,DPE-DBP,0.57,0.67,0.00,0.25,0.00,0.00,0.00,0.00,0.00,0.15
+Digital Help - Expert Elite Mgmt System,DPE-DHX,0.43,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.17,0.13
+Digital Help - Welcome Email,DPE-DHX,0.43,0.00,0.00,0.75,0.15,0.00,0.00,0.00,0.00,0.13
+IBM Sterling Connect:Direct,DPE-DES,0.43,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.11
+Roundhouse,DPE-DES,0.57,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.06
+Data Federator,DPE-DES,0.14,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.02
