@@ -121,5 +121,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.DS_Store
 *.m~
+
+# Misc project ignors
+.idea/
+.DS_Store
